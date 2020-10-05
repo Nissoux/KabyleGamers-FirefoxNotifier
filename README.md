@@ -1,8 +1,14 @@
-# Kabyle Gamers : Chrome Notifier
-
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/SubspaceNetwork/KabyleGamers-ChromeNotifier?include_prereleases) ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/chcnihmebbhcokdbbaimeeklbemopfdp?label=Chrome)
+# Kabyle Gamers : Firefox Notifier
 
 Cette extension permet de s'inscrire aux notifications de Kabyle Gamers (One Signal). Elle offre aussi des boutons d'accès rapide aux comptes sociaux de Kabyle Gamers.
+
+# Installation sur Fifefox
+
+Téléchargez le code, et décompressez-le.
+Naviguez à [about:debugging#addons](about:debugging#addons).
+Cliquez sur "Charger un module complémentaire temporaire..."
+Sélectionnez n'importe quel fichier dans le dossier qui contient le code.
+Voilà !
 
 ## To-do
 
